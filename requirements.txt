@@ -1,0 +1,6 @@
+streamlit
+transformers
+torch
+audio-recorder-streamlit
+sounddevice
+edge-tts
