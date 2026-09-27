@@ -1,4 +1,3 @@
-```python
 import os
 import tempfile
 
@@ -341,11 +340,7 @@ with st.expander("📜 تاریخچه"):
             )
 
             st.divider()
-```
 
-### `requirements.txt`
-
-این فایل را هم دقیقاً به این شکل قرار بده:
 
 
 
